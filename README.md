@@ -37,8 +37,8 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/event-manager-app.git
-cd event-manager-app
+git clone (https://github.com/Imtejakarthik/campusnext.git)
+cd campusnext
 2. Install dependencies
 bash
 Copy code
